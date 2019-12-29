@@ -1,4 +1,7 @@
-# Terraform Jenkins GCE Module
+# Terraform Jenkins GCE Module  
+
+jenkins-terraform-gcp  
+https://docs.google.com/spreadsheets/d/1F5fqGbsQDrQjZVB2E1dk-zr5OUj-Mb6P55F_kL02pZE/edit?folder=0AGzfMaGH7wbJUk9PVA#gid=0  
 
 This module handles the creation of a GCE instance running [Jenkins](https://jenkins.io/), configured to [run builds on Google Cloud](https://cloud.google.com/solutions/using-jenkins-for-distributed-builds-on-compute-engine). Creates an instance that can be logged into with the username `user` and the password `bitnami`.
 
